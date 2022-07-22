@@ -25,4 +25,5 @@ Pobierane są jako liczba całkowita:<br />
 "2" sortowanie po nazwie malejąco<br />
 "3" sortowanie po projektach, które zostały zaaktualizowane w ciągu 3 miesięcy<br />
 
-Ze względu na możliwość zapytań do github api bez generowania tokena (Personal access tokens) w projekcie nie został on zastosowany.
+Ze względu na możliwość zapytań do github api bez generowania tokena (Personal access tokens) w projekcie nie został on zastosowany.<br />
+Docker: https://hub.docker.com/repository/docker/klnstpr/github-api-searcher
